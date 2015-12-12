@@ -4,7 +4,7 @@ var width = document.body.clientWidth;
 var height = 400;
 var typeFace = 'Lato';
 var minFontSize = 22;
-var dividerSize = 8;
+var dividerSize = 4;
 var colors = d3.scale.category20b();
 var widthCentrum = width / 2;
 if (width < 481) {
