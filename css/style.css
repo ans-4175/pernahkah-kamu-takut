@@ -28,3 +28,7 @@ tr.border_top td {
 	margin:5px 0 2px 0;
 	font-weight: bold;
 }
+
+img.stretch{
+	max-width: 100%
+}
