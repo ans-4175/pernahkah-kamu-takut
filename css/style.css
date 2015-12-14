@@ -9,12 +9,12 @@ tr.border_bottom-top th {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 	font-weight: bold;
-	padding: 3px;
+	padding: 5px;
 }
 
 tr.border_none td {
 	border: none;
-	padding: 3px;
+	padding: 5px;
 	vertical-align: top;
 	text-align: left;
 }
