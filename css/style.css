@@ -29,6 +29,13 @@ tr.border_top td {
 	font-weight: bold;
 }
 
+.quote_center{
+	text-align:center;
+	margin:5px 0;
+	font-size: 150%;
+	color: #53b778;
+}
+
 img.stretch{
 	max-width: 100%
 }
